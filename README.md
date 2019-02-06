@@ -31,4 +31,4 @@ If you really want to be certain that you have properly thwarted a tech giant, y
 ### Notes 
 - This is a quick and dirty version of what we had running no the server, so there are probably some bugs. 
 - For WhatsApp and Github you will need to add additional rules
-
+- contact at dhruv@riseup.net or https://dhruvmehrotra.info
