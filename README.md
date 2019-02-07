@@ -6,7 +6,7 @@ This is some code that will help you experience a life without the giants. For t
 
 This code will build firewall rules for macOS using its built in packet filter PF. When you run it your device will be unable to interact with the various tech giants.  You will have to disable the firewall in order to start browsing the internet properly again.
 ### Dependencies 
-This code is for OSX - specifically using their builtin packet filter PF. However, adapting it to run with IPtables on linux is pretty easy. 
+This code is for mac os - specifically using their builtin packet filter PF. However, adapting it to run with IPtables on linux is pretty easy. 
 ### Installation
 1. Clone this repository 
 1. `chmod +x build.sh disable.sh enable.sh`
