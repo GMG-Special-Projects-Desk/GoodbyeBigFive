@@ -29,6 +29,6 @@ For our purposes, what this meant is that if a company decided to use a CDN it w
 If you really want to be certain that you have properly thwarted a tech giant, you will need to block the IP addresses of all major CDNs.  The downside of this strategy is that there will be a lot of false positives - you will block innocent services whose only *known crime is their usage of a CDN. The upside is that your web browser will be mostly useless. For the brave souls that want to go down this route, you can run the code in the aforementioned repository with the ‘--fascist’ flag. 
 
 ### Notes 
-- This is a quick and dirty version of what we had running no the server, so there are probably some bugs. 
+- This is a quick and dirty version of what we had running on the server, so there are probably some bugs. 
 - For WhatsApp and Github you will need to add additional rules
 - contact at dhruv@riseup.net or https://dhruvmehrotra.info
